@@ -1,4 +1,4 @@
-//! A program demonstrating the transfer of lamports
+//! A program demonstrating how to access sysvars
 #![deny(missing_docs)]
 #![forbid(unsafe_code)]
 
